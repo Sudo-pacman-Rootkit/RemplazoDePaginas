@@ -15,7 +15,7 @@ python -m venv .venv
 ```
 
 El sistema debe tener Tk instalado para abrir ventanas (en Arch Linux:
-`sudo pacman -S tk`).
+`sudo pacman -S tk` y en fedora `sudo dnf install tk`).
 
 La tabla muestra una columna por referencia y una fila por marco. Las columnas
 con fallos se resaltan en tono pastel; la última fila marca cada fallo y el
